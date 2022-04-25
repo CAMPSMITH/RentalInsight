@@ -1,18 +1,27 @@
-# Project Name
+# RentalInsight
 
-Project intro ...
+A PropTech analytical notebook for finding viable rental investment opportunities.
 
 ---
 
 ## Technologies
 
-* **...** - ...
+* **PyViz** - A set of python visualization tools used to create compelling, and interactive visualizations.
+
+
+
 
 ---
 
 ## Installation Guide
 
 TBD ...
+
+### PyViz
+To install PyViz in your conda virtual environment, first start your virtual environment, and then use the following command to install the PyViz tools:
+```
+conda install -c pyviz hvplot geoviews
+```
 
 ---
 
