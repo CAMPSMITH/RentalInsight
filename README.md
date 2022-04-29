@@ -16,6 +16,7 @@ A PropTech analytical notebook for finding viable rental investment opportunitie
 ## Installation Guide
 
 ### Prerequisites
+
 The following are required to use this analytical notebook
 * Python 3.7+
 * Anaconda
@@ -24,6 +25,7 @@ The following are required to use this analytical notebook
 For instructions on how to install these and how to run Jupyter Lab, please refer to *Installation Guide* found at [Cryptage](https://github.com/CAMPSMITH/cryptage.git)
 
 ### PyViz hvplot and geoviews
+
 To install PyViz hvplot and geoviews in your conda virtual environment, first start your virtual environment, and then use the following command to install the PyViz tools:
 ```
 conda install -c pyviz hvplot geoviews
@@ -37,6 +39,7 @@ conda install -c pyviz hvplot geoviews
 
 Once Jupyter Lab has started in your browser, select the *san_francisco_housing.ipynb* notebook from the Left Sidebar.
 ![launch Notebook san_francisco_housing.ipynb](images/rentalinsight_notebook.png)
+
 ---
 
 ## Contributors
