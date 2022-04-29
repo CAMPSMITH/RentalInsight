@@ -23,8 +23,8 @@ The following are required to use this analytical notebook
 * Pandas
 For instructions on how to install these and how to run Jupyter Lab, please refer to *Installation Guide* found at [Cryptage](https://github.com/CAMPSMITH/cryptage.git)
 
-### PyViz
-To install PyViz in your conda virtual environment, first start your virtual environment, and then use the following command to install the PyViz tools:
+### PyViz hvplot and geoviews
+To install PyViz hvplot and geoviews in your conda virtual environment, first start your virtual environment, and then use the following command to install the PyViz tools:
 ```
 conda install -c pyviz hvplot geoviews
 ```
@@ -34,6 +34,7 @@ conda install -c pyviz hvplot geoviews
 ## Usage
 
 ### Running the RentalInsight Notebook
+
 Once Jupyter Lab has started in your browser, select the *san_francisco_housing.ipynb* notebook from the Left Sidebar.
 ![launch Notebook san_francisco_housing.ipynb](images/rentalinsight_notebook.png)
 ---
